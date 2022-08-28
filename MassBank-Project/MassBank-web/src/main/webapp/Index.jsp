@@ -93,7 +93,7 @@
 	</div>
 	
 	<div>
-		<iframe src="https://github.com/MassBank-Japan/MassBank-dash-documentation/blob/main/news.html" 
+		<iframe src="https://massbank-japan.github.io/news.html" 
 			id="news" style="min-width: 100%;border:none;"></iframe>
 		<script>
 			iFrameResize({ log: true }, '#news')
