@@ -99,6 +99,9 @@
 			iFrameResize({ log: true }, '#news')
 		</script>
 	</div>
+	<div?
+	      <a class="twitter-timeline" data-width="750" data-height="750" href="https://twitter.com/MassbankJ?ref_src=twsrc%5Etfw">Tweets by MassbankJ</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
 	
 	<jsp:include page="copyrightline.html"/>
 	
